@@ -4,3 +4,17 @@ body {
     background-color: #61122f;
     font-family: 'Oxygen', sans-serif;
 }
+
+#header-nav{
+    background-color: #f6b319;
+    border-radius: 0px;
+    border:0px;
+}
+
+.logo-img{
+    background-image: url('https://www.logolynx.com/images/logolynx/5a/5ac4e9573ec7ab13edf1a88c001313d5.jpeg');
+    background-repeat: no-repeat;
+    width:100px;
+    height:100px;
+    margin:10px 15px 10px 0px;
+}
